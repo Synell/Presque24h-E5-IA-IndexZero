@@ -1,6 +1,6 @@
 <h1 align="center">IA IndexZero</h1>
 <p align="center">
-  <a href="https://github.com/dept-info-iut-dijon/BUT3-S5-TeamErable-TMP/blob/master/LICENSE">
+  <a href="https://github.com/Synell/Presque24h-E5-IA-IndexZero/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green" target="_blank" />
   </a>
 </p>
